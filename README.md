@@ -1,1 +1,1 @@
-# .github
+Welcome to the _**Minneapolis Public Schools Strategic Data Analytics**_ GitHub. The Strategic Data Analytics department is responsible for district-wide data analysis, analytics, dashboarding, and other data needs not otherwise handled by individual departments, divisions, or the  [MPS Research, Evaluation, and Assessment](https://github.com/MPS-Research-Evaluation-and-Assessment) department. Please see the [Minneapolis Public Schools website](https://www.mpschools.org/) for information about the district or to submit data requests. 
